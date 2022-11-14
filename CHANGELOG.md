@@ -1,5 +1,7 @@
 ## master (unreleased)
 
+- Added check for `add_exclusion_constraint`
+
 ## 0.5.3 (2022-11-10)
 
 - Fix removing index by name
